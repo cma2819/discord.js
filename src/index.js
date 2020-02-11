@@ -28,7 +28,7 @@ module.exports = {
   Structures: require('./util/Structures'),
   SystemChannelFlags: require('./util/SystemChannelFlags'),
   Util: Util,
-  version: require('../package.json').version,
+  // version: require('../package.json').version,
 
   // Stores
   ChannelStore: require('./stores/ChannelStore'),
